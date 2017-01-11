@@ -1,2 +1,3 @@
 # hello-world
-first repository
+first time on git hub 
+i am learning coding 
